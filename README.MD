@@ -8,3 +8,4 @@ Este proyecto contiene archivos en los cuales puedes ver diferentes TIPS que te 
 * 02. Tips en Excel 2 | ¿Calcular mi Edad En Años y días en EXCEL? | Función Hoy - archivo: "~/src/files/02-Tips-Excel.xlsx"
 * 03. Tips en Excel 2 | Quitar el fondo de una  imagen en excel rápidamente - archivo: "~/src/files/03-Tips-Excel-quitar-fondo.xlsx"
 * 04. Tips en Excel 4 | ¿Cómo poner ceros a la izquierda en excel? - archivo: "~/src/files/04-Tips-Excel-Ceros-a-la-Izquierda.xlsx"
+* 05. Tips en Excel 5 | Cómo Generar Letras Aleatorias en Excel - archivo: "~/src/files/05-Tips-Excel-generar-letras-aleatorias.xlsx"
